@@ -19,9 +19,9 @@ Support data-driven recommendations for marketing, inventory, and operations
 
 ├── README.md                                 # Project documentation
 
-├── data/                                     # Contains raw or preprocessed data
+├── Data/                                     # Contains raw or preprocessed data
 
-└── visuals/                                  # Contains exported charts and graphs
+└── Visuals/                                  # Contains exported charts and graphs
 
 ##  Key Insights
 ### Sales & Time Trends
