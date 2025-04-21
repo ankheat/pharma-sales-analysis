@@ -15,13 +15,13 @@ Support data-driven recommendations for marketing, inventory, and operations
 
 📦 Pharma-Sales-Analysis
 
-├── Pharma Sales analysis.ipynb     # Jupyter Notebook with complete analysis and visualizations
+├── Pharma Sales analysis.ipynb               # Jupyter Notebook with complete analysis and visualizations
 
-├── README.md                       # Project documentation
+├── README.md                                 # Project documentation
 
-├── data/                           # (Optional) Contains raw or preprocessed data
+├── data/                                     # Contains raw or preprocessed data
 
-└── visuals/                        # (Optional) Contains exported charts and graphs
+└── visuals/                                  # Contains exported charts and graphs
 
 ##  Key Insights
 ### Sales & Time Trends
