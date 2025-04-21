@@ -3,16 +3,11 @@ This project provides a comprehensive analysis of a pharmaceutical company's sal
 
 ## Objective
 The goal of this analysis is to:
-
-Understand overall sales trends over time
-
-Identify top-performing and underperforming products, channels, and cities
-
-Evaluate the contribution of sales teams and individual representatives
-
-Analyze customer behavior and product diversity
-
-Discover seasonal and regional patterns that influence sales
+- Understand overall sales trends over time
+- Identify top-performing and underperforming products, channels, and cities
+- Evaluate the contribution of sales teams and individual representatives
+- Analyze customer behavior and product diversity
+- Discover seasonal and regional patterns that influence sales
 
 Support data-driven recommendations for marketing, inventory, and operations
 
