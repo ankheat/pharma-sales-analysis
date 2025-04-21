@@ -76,10 +76,10 @@ jupyter notebook "Pharma Sales analysis.ipynb"
 - Enhancement of pricing strategy by including competitor benchmarking
 
 ### Contribution Guidelines
-Feel free to fork this project and contribute:
-Raise issues for suggestions or bugs
-Open pull requests for improvements or new features
-Please follow best practices and maintain consistent coding style
+- Feel free to fork this project and contribute:
+- Raise issues for suggestions or bugs
+- Open pull requests for improvements or new features
+- Please follow best practices and maintain consistent coding style
 
 ### License
 This project is licensed under the MIT License. You’re free to use, modify, and distribute it with proper attribution.
